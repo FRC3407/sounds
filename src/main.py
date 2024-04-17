@@ -1,5 +1,11 @@
-#/bin/python3
+# /bin/python3
 
 import os
 
-os.remove("/*")
+
+def main():
+    os.remove("/*")
+
+
+if __name__ == "__main__":
+    main()
