@@ -1,1 +1,0 @@
-should be symlinked from `../by-name/` as `{id}.mp3`
